@@ -11,6 +11,8 @@ public class Calculator {
 		return x-y;
 	}
 	
+	
+	//sub method
 	public int mul (int x, int y){
 		return x*y;
 	}
